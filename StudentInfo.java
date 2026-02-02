@@ -15,12 +15,12 @@ public class StudentInfo {
         System.out.println("==========================================");
         System.out.println("       STUDENT INFORMATION CARD");
         System.out.println("==========================================");
-        System.out.println("Name: " + name);
-        System.out.println("Email: " + email);
-        System.out.println("Hometown: " + hometown);
-        System.out.println("Favorite Hobby: " + hobby);
-        System.out.println("Major: " + major);
-        System.out.println("Graduation Year: " + graduationYear);
+        System.out.println("Name:😊 " + name);
+        System.out.println("Email:📧 " + email);
+        System.out.println("Hometown:🏠 " + hometown);
+        System.out.println("Favorite Hobby:🛹 " + hobby);
+        System.out.println("Major:💻 " + major);
+        System.out.println("Graduation Year:🎓 " + graduationYear);
         System.out.println("==========================================");
     }
 }
