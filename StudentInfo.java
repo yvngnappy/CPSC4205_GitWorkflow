@@ -1,12 +1,16 @@
+/**
+ * Student Information Card
+ * It  shows my name, home town, email, and favorite hobby.
+ */
 
 public class StudentInfo {
     public static void main(String[] args) {
-        String name = "John Doe";
+        String name = "Emmanuel James";
         String major = "Information Technology";
         String email = "james_emmanuel@students.columbusstate.edu";
         String hometown = "Brooklyn, NY";
         String hobby = "Skateboarding";
-        int graduationYear = 2025;
+        int graduationYear = 2026;
 
         System.out.println("==========================================");
         System.out.println("       STUDENT INFORMATION CARD");
